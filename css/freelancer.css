@@ -407,6 +407,10 @@ h6, .h6 {
     color: #e91e63;
     font-style: italic
 }
+
+.course {
+    color: #e91e63;  /* #3b5998; */
+}
 /* EDIT DONE*/
 
 .lead {
